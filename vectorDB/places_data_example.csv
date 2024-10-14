@@ -1,6 +1,0 @@
-place_id,name,address,latitude,longitude,rating,reviews,place_type,opening_hours,photo_url
-001,Eiffel Tower,"Champ de Mars, 5 Avenue Anatole France, 75007 Paris, France",48.8584,2.2945,4.7,Amazing landmark with great views.,Tourist Attraction,09:00 AM - 12:00 AM,http://example.com/photo1.jpg
-002,Louvre Museum,"Rue de Rivoli, 75001 Paris, France",48.8606,2.3376,4.8,"Incredible art collection, must-see!",Museum,09:00 AM - 06:00 PM,http://example.com/photo2.jpg
-003,Notre Dame,"6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris, France",48.853,2.3499,4.6,"A beautiful piece of history, very moving.",Church,07:45 AM - 06:45 PM,http://example.com/photo3.jpg
-004,Arc de Triomphe,"Place Charles de Gaulle, 75008 Paris, France",48.8738,2.295,4.7,"Breathtaking monument, iconic in every way.",Monument,10:00 AM - 11:00 PM,http://example.com/photo4.jpg
-005,Montmartre,"Montmartre, 75018 Paris, France",48.8867,2.3431,4.5,"Charming area, full of artistic history.",Neighborhood,Open 24 hours,http://example.com/photo5.jpg
