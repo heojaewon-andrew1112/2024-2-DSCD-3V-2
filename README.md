@@ -21,13 +21,13 @@
 - **Framework** : 'FastAPI'
 - **VectorDB** : 'Pinecone'
 - **Frontend** : 'Steamlit'
-- [DSCD_pipeline_1006update](https://github.com/user-attachments/assets/9925a25a-36c7-4f93-bb9e-6e316e8778d4)
+<p align="center"><img src="[이미지URL](https://github.com/user-attachments/assets/9925a25a-36c7-4f93-bb9e-6e316e8778d4)"></p>
+
 
 ## 📌 주요 기능
 #### 여행일정 생성
 - 챗봇 인터페이스를 통한 사용자의 여행일정 및 취향 파악
 - 사용자 맞춤형 여행 일정 생성
-- ID찾기, PW찾기
-- 로그인 시 쿠키(Cookie) 및 세션(Session) 생성
+  
 #### 숙소 추천
 - 사용자 숙소 취향에 따른 숙소 리스트 추천
