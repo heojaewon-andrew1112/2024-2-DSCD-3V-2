@@ -17,10 +17,10 @@
  - 팀원3 : 허재원 - 경영정보학과, 데이터사이언스소프트웨어
 
 ### ⚙️ 개발 및 분석 환경
-- 'Python'
-- **Framework** : 'FastAPI'
-- **VectorDB** : 'Pinecone'
-- **Frontend** : 'Steamlit'
+- ```Python```
+- **Framework** : ```FastAPI```
+- **VectorDB** : ```Pinecone```
+- **Frontend** : ```Steamlit```
 <p align="center"><img src="https://github.com/user-attachments/assets/9925a25a-36c7-4f93-bb9e-6e316e8778d4"></p>
 
 <br>
