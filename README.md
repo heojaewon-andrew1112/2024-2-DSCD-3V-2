@@ -1,5 +1,4 @@
 # 2024-2-DSCD-3V-2
----
 
 ## 🖥️ 프로젝트 소개
 주제: LLM 기반 여행 계획 및 후기 관리 서비스
@@ -22,7 +21,7 @@
 - **Framework** : 'FastAPI'
 - **VectorDB** : 'Pinecone'
 - **Frontend** : 'Steamlit'
-- 
+- [DSCD_pipeline_1006update](https://github.com/user-attachments/assets/9925a25a-36c7-4f93-bb9e-6e316e8778d4)
 
 ## 📌 주요 기능
 #### 여행일정 생성
