@@ -21,7 +21,7 @@
 - **Framework** : 'FastAPI'
 - **VectorDB** : 'Pinecone'
 - **Frontend** : 'Steamlit'
-<p align="center"><img src="[이미지URL](https://github.com/user-attachments/assets/9925a25a-36c7-4f93-bb9e-6e316e8778d4)"></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/9925a25a-36c7-4f93-bb9e-6e316e8778d4"></p>
 
 
 ## 📌 주요 기능
